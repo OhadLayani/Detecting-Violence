@@ -21,17 +21,3 @@ in contrast the optical flow and combined models accuracy suffered sitting at ar
 * Cv2 for image capture
 
 
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-
-
-
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
